@@ -1,0 +1,13 @@
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\bin\Debug\netcoreapp3.1\InterfacesDemo.exe
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\bin\Debug\netcoreapp3.1\InterfacesDemo.deps.json
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\bin\Debug\netcoreapp3.1\InterfacesDemo.runtimeconfig.json
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\bin\Debug\netcoreapp3.1\InterfacesDemo.runtimeconfig.dev.json
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\bin\Debug\netcoreapp3.1\InterfacesDemo.dll
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\bin\Debug\netcoreapp3.1\InterfacesDemo.pdb
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.AssemblyInfo.cs
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.dll
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.pdb
+C:\Users\Yaren\source\repos\Classes\InterfacesDemo\obj\Debug\netcoreapp3.1\InterfacesDemo.genruntimeconfig.cache
